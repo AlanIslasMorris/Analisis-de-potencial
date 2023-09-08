@@ -1,0 +1,77 @@
+﻿RM/ REIQ,RM/ REIQ_,RM/ REIQ_Ranking,Zona_Ranking,Empresa,Rtnm,País_,País,Tipo de cliente_,Descuento,País_2,Sufijo,País_3,Tratamiento,Plazo,Precio de venta del RM
+?,?,z ?,03 Zona 2,CAC,Retenum,Guatemala,Guate,Zafiro,-0.15,Varios,CENGU,Guate,2,90,CC
+AACSA,AACSA,06 AACSA,02 Pacífico,México,Retenum,México,Mx,Diamante,-0.4,Varios,,Mx,3,30,1
+P-Active Zoo,ACTIVE ZOO,12 Propios,05 Propios,IqChem,Retenum,México,Mx,Zafiro,-0.35,Varios,,IQC,2,30,CC
+ADelta,ADELTA,37 ADelta,01 Norte,México,Retenum,México,Mx,Distribuidor,-0.35,Varios,,Mx,1,60,CC
+AG TECH,AG TECH,49 AG TECH,10 EUA,Intnl,Retenum,Estados Unidos,EUA,Zafiro,-0.3,EUA,EU,EUA,2,60,CC
+Agrica,AGRICA,19 Agrica,"10 Ecu,Col",Intnl,Retenum,Colombia,Col,Zafiro,-0.45,Col,SUDCOL,Col,3,150,DIST B
+Agrícola Piscis,AGRÍCOLA PISCIS,08 Agrícola Piscis,03 Zona 2,CAC,Retenum,Costa Rica,Cos R,Zafiro,-0.225,Varios,CENCR,Cos R,2,30,CC
+Agroasa,AGROASA,23 Agroasa,03 Zona 2,CAC,Retenum,República Dominicana,Rep D,Zafiro,-0.15,Varios,CENRD,Rep D,2,30,P.P. SUGERIDO
+AgroE,AGROE,25 AgroE,05 REIQ,IqChem,Retenum,México,Mx,Zafiro,-0.35,Varios,,IQC,3,60,DIST B
+Agrofortress,AGROFORTRESS,05 Agrofortress,06 Zona 1,CAC,Retenum,Guatemala,Guate,Zafiro,-0.2,Varios,CENGU,Guate,2,90,CC
+Agrofuturo,AGROFUTURO,34 Agrofuturo,08 Sud 1,SUD,Retenum,Chile,Chile,Zafiro,-0.2,Chile,SUDCH,Chile,2,120,1
+Agroinsumos el campo,AGROINSUMOS EL CAMPO,21 Agroinsumos el campo,04 Sureste,México,Retenum,México,Mx,Distribuidor,-0.35,Varios,,Mx,1,60,CC
+Agrovet,AGROVET,40 Agrovet,04 Sureste,México,Retenum,México,Mx,Distribuidor,-0.23,Varios,,Mx,1,60,CC
+Agroxal,AGROXAL,24 Heraclio Medina,02 Pacífico,México,Retenum,México,Mx,Zafiro,-0.4,Varios,,Mx,3,60,CC
+AICG,AICG,48 AICG,08 Sud 1,SUD,Retenum,Chile,Chile,Distribuidor,-0.2,Chile,SUDCH,Chile,2,30,CC
+Aurelio,AURELIO,36 Aurelio,01 Norte,México,Retenum,México,Mx,Distribuidor,-0.4,Varios,,Mx,1,60,CC
+BCN,BCN,32 ICAS,01 Norte,México,Retenum,México,Mx,Distribuidor,-0.25,Varios,,Mx,1,60,P.P. SUGERIDO
+BioMKT-Agro,BioMKT-Agro,50 BioMkt-Agro,10 EUA,Intnl,Retenum,Estados Unidos,EUA,Zafiro,-0.3,EUA,EU,EUA,3,60,CC
+Bioscience,BIOSCIENCE,27 Bioscience,08 Sud 1,SUD,Retenum,Perú,Perú,Zafiro,-0.2,Perú,SUDPE,Perú,2,30,CC
+Cerro Grande,CERRO GRANDE,43 Cerro Grande,08 Sud 1,SUD,Retenum,Chile,Chile,Zafiro,-0.2,Chile,SUDCH,Chile,2,30,CC
+Ciba,CIBA,15 Ciba,01 Norte,México,Retenum,México,Mx,Elite,-0.53,Varios,,Mx,4,60,DIST B
+CLG,CLG,44 CLG,04 Sureste,México,Retenum,México,Mx,Distribuidor,-0.25,Varios,,Mx,1,60,CC
+Cox,Cox,z Cox,08 Sud 1,SUD,Retenum,Chile,Chile,Diamante,-0.25,Chile,SUDCH,Chile,2,30,CC
+DAgrosol,DAGROSOL,28 DAgrosol,01 Norte,México,Retenum,México,Mx,Distribuidor,-0.25,Varios,,Mx,1,60,CC
+DaPeninsula,DAPENINSULA,38 DaPeninsula,04 Sureste,México,Retenum,México,Mx,CC,-0.15,Varios,,Mx,1,60,P.P. SUGERIDO
+Ditecosa,DITECOSA,01 Ditecosa,01 Norte,México,Retenum,México,Mx,Elite,-0.53,Varios,,Mx,4,60,CC
+Doris,DORIS,33 Doris,"10 Ecu,Col",Intnl,Retenum,Ecuador,Ecu,CC,-0.15,Ecu,ECU,Ecu,2,150,DIST B
+Drokasa,DROKASA,10 Drokasa,08 Sud 1,SUD,Retenum,Perú,Perú,Elite,-0.3,Perú,SUDPE,Perú,4,30,P.P. SUGERIDO
+Duarte,DUARTE,47 Duarte,10 EUA,Intnl,Retenum,Estados Unidos,EUA,Zafiro,-0.3,EUA,EU,EUA,2,60,CC
+Dysea,DYSEA,04 Dysea,01 Norte,México,Retenum,México,Mx,Elite,-0.53,Varios,,Mx,4,60,CC
+ECOLOGIKA,ECOLOGIKA,05 Ecologika,06 Zona 1,CAC,Retenum,Nicaragua,Nic,Zafiro,-0.2,Varios,CENNI,Nic,2,30,1
+Empresas Melo,EMPRESAS MELO,11 Empresas Melo,03 Zona 2,CAC,Retenum,Panamá,Pan,Zafiro,-0.225,Varios,CENPA,Pan,2,30,CC
+ES,ES,05 ES,06 Zona 1,CAC,Retenum,El Salvador,Sal,Zafiro,-0.2,Varios,CENES,Sal,2,90,CC
+Fitoro,FITORO,35 Fitoro,05 Propios,IqChem,Retenum,México,Mx,Zafiro,-0.3,Varios,,IQC,2,30,CC
+FormaQ,FORMAQ,22 FormaQ,02 Pacífico,México,Retenum,México,Mx,Zafiro,-0.35,Varios,,Mx,2,30,DIST B
+Fumyagro,FUMYAGRO,41 Fumyagro,04 Sureste,México,Retenum,México,Mx,Distribuidor,-0.4,Varios,,Mx,1,60,CC
+Fv,FV,07 Fv,04 Sureste,México,Retenum,México,Mx,Elite,-0.53,Varios,,Mx,4,30,1
+Gannet,GANNET,31 Gannet,02 Pacífico,México,Retenum,México,Mx,Distribuidor,-0.4,Varios,,Mx,1,60,CC
+GMT,GMT,09 GMT,08 Sud 1,SUD,Retenum,Chile,Chile,Distribuidor,-0.3,Chile,SUDCH,Chile,4,30,CC
+P-GreenBull,GREEN BULL,12 Propios,05 Propios,IqChem,Retenum,México,Mx,Zafiro,-0.35,Varios,,IQC,2,30,CC
+GT,GT,05 GT,06 Zona 1,CAC,Retenum,Guatemala,Guate,Zafiro,-0.2,Varios,CENGU,Guate,2,90,CC
+Heraclio Medina,HERACLIO MEDINA,24 Heraclio Medina,02 Pacífico,México,Retenum,México,Mx,Zafiro,-0.4,Varios,,Mx,2,30,CC
+HN,HN,05 HN,06 Zona 1,CAC,Retenum,Honduras,Hdrs,Zafiro,-0.2,Varios,CENHO,Hdrs,2,90,CC
+Hormonas,HORMONAS,13 Hormonas,04 Sureste,México,Retenum,México,Mx,Diamante,-0.4,Varios,,Mx,3,0,1
+Noroeste-SBCh,IA- DRD,12 Propios,05 Propios,IqChem,Retenum,México,Mx,Zafiro,-0.35,Varios,,IQC,2,30,CC
+Pacífico,IA- ERE,12 Propios,05 Propios,IqChem,Retenum,México,Mx,Zafiro,-0.35,Varios,,IQC,2,30,CC
+Bajío/ Centro,IA- JPM,12 Propios,05 Propios,IqChem,Retenum,México,Mx,Zafiro,-0.35,Varios,,IQC,2,30,CC
+Noroeste-SSCh,IA- JSR,12 Propios,05 Propios,IqChem,Retenum,México,Mx,Zafiro,-0.35,Varios,,IQC,2,30,CC
+ICAS,ICAS,32 ICAS,01 Norte,México,Retenum,México,Mx,Distribuidor,-0.25,Varios,,Mx,1,60,P.P. SUGERIDO
+Interoc,Interoc,z Interoc,08 Sud 1,SUD,Retenum,Perú,Perú,Distribuidor,-0.25,Perú,SUDPE,Perú,2,30,CC
+JF,JF,02 JF,02 Pacífico,México,Retenum,México,Mx,Diamante,-0.4,Varios,,Mx,4,60,1
+LSGC,LSGC,05 NC,06 Zona 1,CAC,Retenum,Nicaragua,Nic,Zafiro,-0.2,Varios,CENNI,Nic,2,90,CC
+MAXIAGRO,MAXIAGRO,05 Maxiagro GT,06 Zona 1,CAC,Retenum,Guatemala,Guate,Zafiro,-0.2,Varios,CENGU,Guate,2,90,CC
+MaxiagroGT,MaxiagroGT,05 Maxiagro GT,06 Zona 1,CAC,Retenum,Guatemala,Guate,Zafiro,-0.2,Varios,CENGU,Guate,2,90,DIST B
+MaxiagroHN,MaxiagroHN,05 Maxiagro HN,06 Zona 1,CAC,Retenum,Honduras,Hdrs,Zafiro,-0.2,Varios,CENHO,Hdrs,2,90,1
+MENCER,MENCER,z-Mencer,-,-,Retenum,-,-,-,-0.2,-,-,-,60,60,CC
+Mezquite,MEZQUITE,30 Mezquite,10 EUA,Intnl,Retenum,Estados Unidos,EUA,Distribuidor,-0.3,EUA,EU,EUA,2,30,CC
+MGRE,MGRE,26 MGRE,04 Sureste,México,Retenum,México,Mx,Distribuidor,-0.25,Varios,,Mx,1,60,CC
+Mx,Mx,12 Propios,05 Propios,IqChem,Retenum,México,Mx,Diamante,-0.35,Varios,,IQC,2,30,CC
+Mx-p,Mx-p,12 Propios,05 Propios,IqChem,Retenum,México,Mx,Diamante,-0.35,Varios,,IQC,2,30,CC
+NANSA,NANSA,12 Propios,05 Propios,IqChem,Retenum,México,Mx,Zafiro,-0.35,Varios,,IQC,2,30,P.P. SUGERIDO
+NC,NC,05 NC,06 Zona 1,CAC,Retenum,Nicaragua,Nic,Zafiro,-0.2,Varios,CENNI,Nic,2,90,CC
+NICABACORP,NICABACORP,05 NC,06 Zona 1,CAC,Retenum,Nicaragua,Nic,CC,-0.2,Varios,CENNI,Nic,2,90,1
+Priviet,PRIVIET,20 Priviet,04 Sureste,México,Retenum,México,Mx,Zafiro,-0.35,Varios,,Mx,2,60,DIST B
+PromAgric,PROMAGRIC,14 PromAgric,04 Sureste,México,Retenum,México,Mx,Diamante,-0.4,Varios,,Mx,3,30,1
+Propios,PROPIOS,12 Propios,05 Propios,IqChem,Retenum,México,Mx,Zafiro,-0.35,Varios,,IQC,1,30,P.P. SUGERIDO
+Quinval,QUINVAL,03 Quinval,01 Norte,México,Retenum,México,Mx,Elite,-0.53,Varios,,Mx,4,60,1
+SAGRISA,SAGRISA,05 Sagrisa,06 Zona 1,CAC,Retenum,El Salvador,Sal,Zafiro,-0.2,Varios,CENES,Sal,2,120,CC
+P-Sefersa,SEFERSA,12 Propios,05 Propios,IqChem,Retenum,México,Mx,Distribuidor,-0.35,Varios,,IQC,2,30,CC
+Serco Verde,SERCO VERDE,39 Serco Verde,04 Sureste,México,Retenum,México,Mx,Diamante,-0.4,Varios,,Mx,3,60,1
+Silvano,SILVANO,42 Silvano,04 Sureste,México,Retenum,México,Mx,Distribuidor,-0.35,Varios,,Mx,1,60,CC
+Tattersal,TATTERSAL,18 Tattersal,08 Sud 1,SUD,Retenum,Chile,Chile,Diamante,-0.3,Chile,SUDCH,Chile,4,30,P.P. SUGERIDO
+Tekquimik,TEKQUIMIK,17 Tekquimik,"10 Ecu,Col",Intnl,Retenum,Ecuador,Ecu,Zafiro,-0.4,Ecu,ECU,Ecu,3,150,DIST B
+Toqui,TOQUI,45 Toqui,08 Sud 1,SUD,Retenum,Chile,Chile,Distribuidor,-0.2,Chile,SUDCH,Chile,2,30,1
+TQC,TQC,z TQC,08 Sud 1,SUD,Retenum,Perú,Perú,Distribuidor,-0.25,Perú,SUDPE,Perú,2,30,CC
+Txao,TXAO,16 Txao,05 REIQ,IqChem,Retenum,México,Mx,Elite,-0.55,Varios,,IQC,4,60,DIST B
